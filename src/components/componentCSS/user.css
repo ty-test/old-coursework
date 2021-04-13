@@ -1,0 +1,113 @@
+#ico {
+    all:unset;
+    border-radius: 100%;
+    width: 100px;
+    height: 200px;
+}
+
+#user {
+    position: absolute;
+    top: 5%;
+    width: 200px;
+    right: 1%;
+    text-align: center;
+    font-family: Calibri;
+}
+
+#pic {
+    position: relative;
+    top: 10%;
+}
+
+#menu{
+    position: relative;
+    left: 20px;
+}
+
+.setBut button {
+    font-family: Calibri;
+    background: black;
+    border: none;
+    color: white;
+}
+
+#settingsButton{
+    all:unset;
+    width: 34px;
+    height: 30px;
+    background: black;
+}
+
+#l{
+    position: relative;
+    float: left;
+    width: 140px;
+    height: 33px;
+    left: 20px;
+}
+
+#p{
+    position: relative;
+    float: right;
+    width: 40px;
+    height: 34px;
+    right: 6px;
+}
+
+.both{
+    width: 100px;
+    height: 25px;
+}
+
+.void {
+    height: 50px;
+    width: 100px
+}
+
+.miniSub{
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+#sub{
+    /*border: 3px solid #f1f1f1;*/
+    /*border-radius: 20px;*/
+    width: 200px;
+    height: 150px;
+}
+
+.gallery{
+
+    width: 200px;
+    height: 150px;
+}
+
+.minphoto{
+ max-width:30%; height:auto; }
+
+
+#buttons{
+    font-family: Calibri;
+    font: 14px/1.3 sans-serif;
+    width: 200px;
+}
+.sub p{
+    margin-top: 3%;
+}
+
+.tooltip {
+    position: fixed;
+    padding: 5px 10px;
+    /* красивости... */
+
+    border: 1px solid #b3c9ce;
+    border-radius: 2px;
+    text-align: center;
+    font: 14px/1.3 sans-serif;
+    font-family: Calibri;
+    color: #333;
+    background: #fff;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .3);
+}

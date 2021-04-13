@@ -1,0 +1,48 @@
+body {
+    font-family: Calibri;
+}
+
+#form_for_search_bank_studio{
+    all: unset;
+}
+
+#set_login_for_bank{
+    margin-right: 28%;
+    margin-top: 6%;
+}
+
+#submit-search_bank{
+    margin-left: 42%;
+}
+
+#submit-change_bank{
+    display: inline-block;
+}
+
+#back{
+    margin-top: -20%;
+    margin-left: 50%;
+}
+
+#set_new_purse{
+    margin-top: 5%;
+    margin-right: 23%;
+}
+
+#info_bank{
+    margin-top: 5%;
+    margin-right: 9%;
+    font-size: 25px;
+    text-align: center;
+}
+
+#form_for_set_bank {
+    all: unset;
+    margin-left: 2%;
+}
+
+#back{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 25px;
+}

@@ -1,0 +1,149 @@
+body {
+    font-family: Calibri;
+}
+
+.nameMini {
+    float: left;
+    margin: 0 1.5%;
+    width: 50%;
+    font-size: 40pt;
+}
+
+.rankMini {
+    float: right;
+    margin-right: 26%;
+    font-size: 12pt;
+    width: 110pt;
+    text-align: center;
+}
+
+.imgMini {
+    height: 120px;
+}
+a{
+    color: black;
+}
+
+#discussion{
+    all: unset;
+    /*position: relative;*/
+    position: absolute;
+    right: 42%;
+    height: 155px;
+    margin-right: 80px;
+    margin-top: 3%;
+}
+
+.numberMini {
+    font-size: 20pt;
+    font-weight: bolder;
+}
+
+.mainInfoMini {
+    position: relative;
+    width: 600px;
+    margin-left: 210px;
+    margin-top: -90px;
+    height: 135px;
+    overflow: hidden;
+    order: 0;
+}
+
+#mainInfoTitleMini {
+    text-align: right;
+    font-weight: bold;
+    width: 100px;
+    margin-top: 280px;
+    margin-left: 70px;
+}
+
+.yourScoreMini {
+    text-align: center;
+    float: left;
+    width: 100px;
+}
+
+.scoreAndArticle_mini {
+    border-bottom: 190px solid white;
+}
+
+#date {
+    margin-left: 700px;
+    margin-top: -178px;
+    width: 50px;
+    height: 40px;
+}
+
+.article_mini {
+    text-align: center;
+    float: left;
+    width: 250px;
+    margin-right: 60px;
+}
+
+
+.imgDes_mini {
+    height: 110px;
+    float: left;
+    margin: 4px 10px 2px 0;
+}
+
+#mainPicMini {
+    border-radius: 5px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    width: 290px;
+    height: 180px;
+    float: left;
+    clear: both;
+}
+
+.articles {
+    clear: both;
+}
+
+.circleMini {
+    text-align: center;
+    border: 5px solid black;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    border-radius: 100%;
+    margin: 20px 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.xpandable-block {
+    height: 55px;
+    overflow: hidden;
+    order: 0;
+}
+
+.xpand-button {
+    order: 1;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+input[type="checkbox"]:checked + .xpandable-block {
+    height: auto;
+}
+
+label {
+    order: 1;
+    text-decoration: underline;
+    font-size: 18px;
+    cursor: pointer;
+}
+

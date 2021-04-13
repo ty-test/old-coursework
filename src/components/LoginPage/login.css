@@ -1,0 +1,63 @@
+h2{
+    position: absolute;
+    left: 45%;
+}
+.userICO{
+    position: relative;
+    top: 10%;
+    text-align: center;
+
+}
+
+
+#loginForm{
+    all: unset;
+}
+
+input{
+    text-align: center;
+    width: 260px;
+    height: 20px;
+}
+
+.u1{
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+}
+
+.u2{
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+}
+
+#logo1{
+     position: absolute;
+     top: 15%;
+     right: 20%;
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    width: 400px;
+    height: 500px;
+    background: white;
+ }
+
+#buttonLogin{
+    position: relative;
+    top: 10%;
+    text-align: right;
+    right:6%;
+}
+
+#discr{
+    position: absolute;
+    top:770px;
+    text-align: center;
+    left: 300px;
+
+}

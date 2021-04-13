@@ -1,0 +1,32 @@
+
+.reg1{
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    width: 500px;
+    height: 600px;
+}
+
+form > div{
+    position: relative;
+    top: 10%;
+    text-align: right;
+    right:15%;
+}
+
+.userICO{
+    position: relative;
+    top: 10%;
+    left:1%;
+}
+
+Link{
+    text-align: center;
+}
+
+form {
+    all: unset;
+}
+

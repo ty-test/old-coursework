@@ -1,0 +1,40 @@
+body{
+    font-size: 18px;
+}
+
+#header {
+    position: relative;
+    left: 15%;
+    float: left;
+    top: 5%;
+}
+
+#Foll {
+    position: relative;
+    float: right;
+    top: 5%;
+    right: 15%;
+
+}
+
+.pageStudio{
+    position: absolute;
+      width: 1000px;
+    height: 100%;
+
+}
+
+#selectorDiv{
+    all:unset;
+    position: relative;
+    left: 50px;
+    width: 400px;
+
+}
+
+#postPhoto {
+    borderRadius:10px;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}

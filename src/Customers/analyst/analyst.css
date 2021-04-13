@@ -1,0 +1,67 @@
+body {
+    font-family: Calibri;
+}
+#analystsssssss{
+    position: absolute;
+    left: 15%;
+}
+
+.circle {
+    text-align: center;
+    border: 5px solid black;
+    width: 100px;
+    line-height: 100px;
+    border-radius: 100%;
+    margin: 20px 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.number {
+    font-size: 30pt;
+    font-weight: bolder;
+}
+
+#lilPost {
+    text-align: center;
+}
+
+
+#analystLogo {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+#analystPic{
+    text-align: center;
+}
+
+#ratingAnalyst {
+    text-align: center;
+    left: 40%;
+    position: relative;
+    float: left;
+}
+
+#marcAnalyst {
+    text-align: center;
+    right: 20%;
+    position: relative;
+    float: right;
+}
+
+
+
+/*input{*/
+    /*text-align: center;*/
+    /*width: 200px;*/
+    /*height: 20px;*/
+/*}*/
+/*.buttonsAnalyst{*/
+    /*text-align: center;*/
+/*}*/
+
+#reviews{
+text-align: center;
+}

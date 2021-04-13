@@ -1,0 +1,23 @@
+.settings{
+    all:unset;
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    height: 400px;
+    width: 350px;
+    z-index: 1000;
+    background: white;
+
+}
+
+#f{
+    all:unset;
+}
+
+.chngbr{
+    all:unset;
+    position: relative;
+    top: 10%;
+}

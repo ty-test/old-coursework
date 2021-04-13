@@ -1,0 +1,28 @@
+#header {
+    position: relative;
+    left: 15%;
+    float: left;
+}
+
+#actorFoll {
+    position: relative;
+    float: right;
+}
+
+#postPhoto {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#ico{
+    border-radius: 100%;
+    width: 200px;
+}
+
+#formochka{
+    all: unset;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
